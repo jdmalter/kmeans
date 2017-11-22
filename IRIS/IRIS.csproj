@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <Content Include="Repository.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\kmeans\kmeans.csproj">
